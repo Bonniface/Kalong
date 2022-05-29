@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> feel free to check out what I've been up to!
-# Data Science Enthuatis
+# Data Science Enthusiasts
 - 💻 I'm currently a Student,focusing on finding the perfect career in DATA SCIENCE and setting up my website to share what I have learned so far. 👯⚡️🌱🔭
 - 💬 A bit about me:Passionate about data analysis and experiments, mainly focused on user behavior, experience, and engagement, with a solid background in data science    and statistics, and using data insights to drive business \growth.
 - Nationality: GH
