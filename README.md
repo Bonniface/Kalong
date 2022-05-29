@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Nationality: GH
 - Personal interests: ⚽  💪🏽 🏕 🏍 💻 
 - Current location: 📍 Kumasi, AF, Ghana
-- 📫 How to reach me: kalongboniface97@gmail.com,:e-mail:
+- 📫 How to reach me: :e-mail:kalongboniface97@gmail.com
 - 🌎 Check my portfolio
 
 I'm always working on something, and often too excited about it to stop and update my portfolio
