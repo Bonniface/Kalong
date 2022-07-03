@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 I'm always working on something, and often too excited about it to stop and update my portfolio
 
 Feel free to reach out and see what I'm up to now 💬
+
+---
+![github stats](https://github-readme-stats.vercel.app/api?username=Kalong-code&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalong-code&langs_count=3&hide=javascript,go,html,css,tex)
